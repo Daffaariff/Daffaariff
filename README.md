@@ -1,4 +1,7 @@
-- 🧑‍💻 Certified Tensorflow Developr [Tensorflow] (https://www.credential.net/ac294025-e564-4bbe-9aac-9750576ce9de#gs.3ekogo)
+# Hello, I'm Daffa Arifadilah 👋
+
+
+- 🧑‍💻 I'm a machine learning enthusiast with a passion for turning data into actionable insights.
 - 🔥 Working on the frontier of research & business
 - 🎓 [Bachelor of Compter Science] & [certified Tensorflow Developer](https://www.credential.net/ac294025-e564-4bbe-9aac-9750576ce9de#gs.3ekogo)
 
