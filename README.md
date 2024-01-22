@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm [Daffa Arifadilah] 👋
 
-<!--
-**Daffaariff/Daffaariff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 About Me
+I'm a machine learning enthusiast with a passion for turning data into actionable insights. [More about your journey...]
 
-Here are some ideas to get you started:
+## 💻 Skills and Technologies
+- **Languages**: Python, Javascript
+- **Frameworks**: TensorFlow, PyTorch
+- **Tools**: Jupyter, SQL, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Project Name](Link to Repo): Brief description.
+- [Another Project](Link to Repo)
+
+## 🌱 I'm currently learning...
+- Advanced neural networks
+- Natural language processing techniques
+
+## 📫 How to reach me
+- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
+- Email: your.email@example.com
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Daffaariff&show_icons=true)
