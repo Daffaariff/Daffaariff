@@ -12,5 +12,5 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/daffaarifadilla)](https://www.kaggle.com/daffaarifadilla)
 
 
-[![GitHub stats](https://img.shields.io/github/followers/daffaariff?style=social)](https://github.com/daffaariff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daffaariff\&rank_icon=github)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaariff&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
