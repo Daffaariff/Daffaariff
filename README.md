@@ -11,5 +11,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://www.github.com/daffaariff)](https://www.github.com/daffaariff)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/daffaarifadilla)](https://www.kaggle.com/daffaarifadilla)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=black&link=https://www.github.com/daffaariff)](https://www.github.com/daffaariff)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=black&link=https://www.kaggle.com/daffaarifadilla)](https://www.kaggle.com/daffaarifadilla)
+
+[![GitHub stats](https://img.shields.io/github/followers/daffaariff?style=social)](https://github.com/daffaariff)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaariff&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
