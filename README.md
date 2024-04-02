@@ -12,4 +12,4 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/daffaarifadilla)](https://www.kaggle.com/daffaarifadilla)
 
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaariff&layout=compact&theme=algolia&custom_title=Top%20Languages&langs_count=3)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaariff&layout=compact&theme=algolia&custom_title=Top%20Languages&langs_count=6)
